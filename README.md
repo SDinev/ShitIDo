@@ -1,0 +1,2 @@
+# ShitIDo
+Learning Jekyll
