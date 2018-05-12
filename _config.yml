@@ -16,8 +16,8 @@
 title: Shit I do
 description: >- # this means to ignore newlines until "baseurl:"
   Shit I do is something I do. There we go.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "sdinev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ShitIDo" # the subpath of your site, e.g. /blog
+url: "http://sdinev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bobottle
 github_username:  sdinev
 
